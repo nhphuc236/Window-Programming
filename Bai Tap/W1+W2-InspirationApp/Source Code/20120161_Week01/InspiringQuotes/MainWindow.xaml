@@ -1,0 +1,77 @@
+﻿<Window x:Class="InspiringQuotes.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:InspiringQuotes"
+        mc:Ignorable="d"
+        Title="Inspiring Quotes" Height="600" Width="400" Loaded="Window_Loaded" ResizeMode="CanMinimize" WindowStartupLocation="CenterScreen">
+
+    <Canvas>
+        <Label x:Name="quotesLabel" 
+               Content="Hello World" 
+               Canvas.Left="17" Canvas.Top="174" 
+               Height="120" Width="358" 
+               FontSize="20" 
+               Foreground="White" 
+               HorizontalContentAlignment="Center" VerticalContentAlignment="Center" 
+               >
+
+            <Label.Background>
+
+                <LinearGradientBrush StartPoint="0.5,0" EndPoint="0.5,1"  Opacity="0.5">
+
+                    <GradientStop Color="MediumOrchid" Offset="0.2" />
+
+                    <GradientStop Color="Cyan" Offset="1" />
+
+                </LinearGradientBrush>
+
+            </Label.Background>
+        </Label>
+
+        <Button x:Name="nextQuoteButton" 
+                Canvas.Left="172" Canvas.Top="462" 
+                Click="nextQuoteButton_Click" 
+                Height="42" Width="56" 
+                BorderThickness="0" 
+                Background="{x:Null}">
+        </Button>
+
+        <!-- Label Reflection. -->
+        <Rectangle 
+      Height="{Binding Path=ActualHeight, ElementName=quotesLabel}" 
+      Width="{Binding Path=ActualWidth, ElementName=quotesLabel}" Canvas.Left="17" Canvas.Top="294">
+            <Rectangle.Fill>
+
+                <!--Creates the reflection.-->
+                <VisualBrush 
+          Opacity="0.5" Stretch="None"
+          Visual="{Binding ElementName=quotesLabel}">
+                    <VisualBrush.RelativeTransform>
+
+                        <!--Flip the reflection.-->
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1" ScaleY="-1" />
+                            <TranslateTransform  Y="1" />
+                        </TransformGroup>
+                    </VisualBrush.RelativeTransform>
+                </VisualBrush>
+            </Rectangle.Fill>
+
+            <Rectangle.OpacityMask>
+                <LinearGradientBrush StartPoint="0.5,0" EndPoint="0.5,1">
+                    <GradientStop Color="#FF000000" Offset="0.0" />
+                    <GradientStop Color="#33000000" Offset="0.5" />
+                    <GradientStop Color="#00000000" Offset="0.75" />
+                </LinearGradientBrush>
+            </Rectangle.OpacityMask>
+
+            <Rectangle.BitmapEffect>
+                <BlurBitmapEffect Radius="1.5" />
+            </Rectangle.BitmapEffect>
+
+        </Rectangle>
+    </Canvas>
+
+</Window>
