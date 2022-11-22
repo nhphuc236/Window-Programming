@@ -1,0 +1,30 @@
+E:\Huu Phuc\Study\@ Uni\Nam 3\Window Programming\InspiringQuotesApp\InspiringQuotes\InspiringQuotes\bin\Release\InspiringQuotes.exe.config
+E:\Huu Phuc\Study\@ Uni\Nam 3\Window Programming\InspiringQuotesApp\InspiringQuotes\InspiringQuotes\bin\Release\InspiringQuotes.exe
+E:\Huu Phuc\Study\@ Uni\Nam 3\Window Programming\InspiringQuotesApp\InspiringQuotes\InspiringQuotes\bin\Release\InspiringQuotes.pdb
+E:\Huu Phuc\Study\@ Uni\Nam 3\Window Programming\InspiringQuotesApp\InspiringQuotes\InspiringQuotes\obj\Release\InspiringQuotes.csproj.AssemblyReference.cache
+E:\Huu Phuc\Study\@ Uni\Nam 3\Window Programming\InspiringQuotesApp\InspiringQuotes\InspiringQuotes\obj\Release\MainWindow.g.cs
+E:\Huu Phuc\Study\@ Uni\Nam 3\Window Programming\InspiringQuotesApp\InspiringQuotes\InspiringQuotes\obj\Release\App.g.cs
+E:\Huu Phuc\Study\@ Uni\Nam 3\Window Programming\InspiringQuotesApp\InspiringQuotes\InspiringQuotes\obj\Release\InspiringQuotes_MarkupCompile.cache
+E:\Huu Phuc\Study\@ Uni\Nam 3\Window Programming\InspiringQuotesApp\InspiringQuotes\InspiringQuotes\obj\Release\InspiringQuotes_MarkupCompile.lref
+E:\Huu Phuc\Study\@ Uni\Nam 3\Window Programming\InspiringQuotesApp\InspiringQuotes\InspiringQuotes\obj\Release\MainWindow.baml
+E:\Huu Phuc\Study\@ Uni\Nam 3\Window Programming\InspiringQuotesApp\InspiringQuotes\InspiringQuotes\obj\Release\InspiringQuotes.g.resources
+E:\Huu Phuc\Study\@ Uni\Nam 3\Window Programming\InspiringQuotesApp\InspiringQuotes\InspiringQuotes\obj\Release\InspiringQuotes.Properties.Resources.resources
+E:\Huu Phuc\Study\@ Uni\Nam 3\Window Programming\InspiringQuotesApp\InspiringQuotes\InspiringQuotes\obj\Release\InspiringQuotes.csproj.GenerateResource.cache
+E:\Huu Phuc\Study\@ Uni\Nam 3\Window Programming\InspiringQuotesApp\InspiringQuotes\InspiringQuotes\obj\Release\InspiringQuotes.csproj.CoreCompileInputs.cache
+E:\Huu Phuc\Study\@ Uni\Nam 3\Window Programming\InspiringQuotesApp\InspiringQuotes\InspiringQuotes\obj\Release\InspiringQuotes.exe
+E:\Huu Phuc\Study\@ Uni\Nam 3\Window Programming\InspiringQuotesApp\InspiringQuotes\InspiringQuotes\obj\Release\InspiringQuotes.pdb
+E:\Huu Phuc\Study\@ Uni\Nam 3\Window Programming\Bai Tap\InspiringQuotesApp\InspiringQuotes\InspiringQuotes\bin\Release\InspiringQuotes.exe.config
+E:\Huu Phuc\Study\@ Uni\Nam 3\Window Programming\Bai Tap\InspiringQuotesApp\InspiringQuotes\InspiringQuotes\bin\Release\InspiringQuotes.exe
+E:\Huu Phuc\Study\@ Uni\Nam 3\Window Programming\Bai Tap\InspiringQuotesApp\InspiringQuotes\InspiringQuotes\bin\Release\InspiringQuotes.pdb
+E:\Huu Phuc\Study\@ Uni\Nam 3\Window Programming\Bai Tap\InspiringQuotesApp\InspiringQuotes\InspiringQuotes\obj\Release\InspiringQuotes.csproj.AssemblyReference.cache
+E:\Huu Phuc\Study\@ Uni\Nam 3\Window Programming\Bai Tap\InspiringQuotesApp\InspiringQuotes\InspiringQuotes\obj\Release\MainWindow.g.cs
+E:\Huu Phuc\Study\@ Uni\Nam 3\Window Programming\Bai Tap\InspiringQuotesApp\InspiringQuotes\InspiringQuotes\obj\Release\App.g.cs
+E:\Huu Phuc\Study\@ Uni\Nam 3\Window Programming\Bai Tap\InspiringQuotesApp\InspiringQuotes\InspiringQuotes\obj\Release\InspiringQuotes_MarkupCompile.cache
+E:\Huu Phuc\Study\@ Uni\Nam 3\Window Programming\Bai Tap\InspiringQuotesApp\InspiringQuotes\InspiringQuotes\obj\Release\InspiringQuotes_MarkupCompile.lref
+E:\Huu Phuc\Study\@ Uni\Nam 3\Window Programming\Bai Tap\InspiringQuotesApp\InspiringQuotes\InspiringQuotes\obj\Release\MainWindow.baml
+E:\Huu Phuc\Study\@ Uni\Nam 3\Window Programming\Bai Tap\InspiringQuotesApp\InspiringQuotes\InspiringQuotes\obj\Release\InspiringQuotes.g.resources
+E:\Huu Phuc\Study\@ Uni\Nam 3\Window Programming\Bai Tap\InspiringQuotesApp\InspiringQuotes\InspiringQuotes\obj\Release\InspiringQuotes.Properties.Resources.resources
+E:\Huu Phuc\Study\@ Uni\Nam 3\Window Programming\Bai Tap\InspiringQuotesApp\InspiringQuotes\InspiringQuotes\obj\Release\InspiringQuotes.csproj.GenerateResource.cache
+E:\Huu Phuc\Study\@ Uni\Nam 3\Window Programming\Bai Tap\InspiringQuotesApp\InspiringQuotes\InspiringQuotes\obj\Release\InspiringQuotes.csproj.CoreCompileInputs.cache
+E:\Huu Phuc\Study\@ Uni\Nam 3\Window Programming\Bai Tap\InspiringQuotesApp\InspiringQuotes\InspiringQuotes\obj\Release\InspiringQuotes.exe
+E:\Huu Phuc\Study\@ Uni\Nam 3\Window Programming\Bai Tap\InspiringQuotesApp\InspiringQuotes\InspiringQuotes\obj\Release\InspiringQuotes.pdb
